@@ -10,5 +10,3 @@ L'objectif est de développer un système de traduction performant, fiable et ac
 Nous pouvons travailler ensemble pour faire avancer ce projet. Si vous avez des problèmes, des idées d'implémentations ou des suggestions, n'hésitez pas à ouvrir une issue. Nous sommes également ouverts aux Pull Requests. Améliorez et faites avancer le projet !
 
 Envoyer un email dirray@gmail.com pour plus d'informations.
-
-

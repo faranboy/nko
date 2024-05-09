@@ -7,8 +7,6 @@
 
 import sys
 import sentencepiece as spm
-
-
 path = ""    # change the path if needed
 
 train_source_file_tok = path + sys.argv[1]

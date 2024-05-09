@@ -4,7 +4,7 @@
 # Training SentencePiece models for the source and target
 # Command: python3 train.py <train_source_file_tok> <train_target_file_tok>
 
-
+#Ce script Python est utilisé pour entraîner des modèles de tokenisation de phrases (SentencePiece) pour les données source et cible
 import sys
 import sentencepiece as spm
 
